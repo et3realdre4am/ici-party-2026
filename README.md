@@ -33,3 +33,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Javier Campos
 * Camila Cutiño
 * Mathias Fernandes
+* Amanda Gonzalez
